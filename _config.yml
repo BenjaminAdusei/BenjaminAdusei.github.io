@@ -12,3 +12,18 @@ header_pages:
   - about.md
   - programs.md
   - contact.md
+
+# Custom CSS
+sass:
+  sass_dir: assets/css
+
+# Additional settings
+show_excerpts: true
+show_downloads: false
+google_analytics: # UA-XXXXX-Y (Optional)
+
+# Social links (update with your actual links)
+twitter:
+  username: BenjaminKwakuAdusei
+github:
+  username: BenjaminAdusei
