@@ -1,0 +1,14 @@
+title: "Adusei Foundation"
+description: "Educational foundation - Building futures through education"
+baseurl: ""
+url: "https://benjaminadusei.github.io"
+theme: minima
+email: bkadusei94@gmail.com
+twitter_username: BenjaminKwakuAdusei
+github_username: BenjaminAdusei
+
+# Navigation
+header_pages:
+  - about.md
+  - programs.md
+  - contact.md
